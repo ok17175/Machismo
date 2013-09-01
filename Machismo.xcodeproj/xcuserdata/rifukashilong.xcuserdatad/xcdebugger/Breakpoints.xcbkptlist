@@ -71,24 +71,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "Machismo/CardGameViewController.m"
-         timestampString = "397271141.180022"
+         timestampString = "399488748.328448"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "96"
-         endingLineNumber = "96"
-         landmarkName = "@implementation CardGameViewController"
-         landmarkType = "3">
-      </FileBreakpoint>
-      <FileBreakpoint
-         shouldBeEnabled = "No"
-         ignoreCount = "0"
-         continueAfterRunningActions = "No"
-         filePath = "Machismo/CardGameViewController.m"
-         timestampString = "395155621.121669"
-         startingColumnNumber = "9223372036854775807"
-         endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "43"
-         endingLineNumber = "43"
+         startingLineNumber = "88"
+         endingLineNumber = "88"
          landmarkName = "@implementation CardGameViewController"
          landmarkType = "3">
       </FileBreakpoint>
@@ -123,11 +110,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "Machismo/Model/CardMatchingGame.m"
-         timestampString = "394770446.917131"
+         timestampString = "399393151.929289"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "106"
-         endingLineNumber = "106"
+         startingLineNumber = "107"
+         endingLineNumber = "107"
          landmarkName = "@implementation CardMatchingGame"
          landmarkType = "3">
       </FileBreakpoint>
@@ -147,12 +134,12 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "Machismo/CardGameViewController.m"
-         timestampString = "394043659.226561"
+         timestampString = "399393151.929289"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
          startingLineNumber = "27"
          endingLineNumber = "27"
-         landmarkName = "-game"
+         landmarkName = "-collectionView:numberOfItemsInSection:"
          landmarkType = "5">
       </FileBreakpoint>
       <FileBreakpoint
@@ -173,11 +160,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "Machismo/CardGameViewController.m"
-         timestampString = "397271141.180022"
+         timestampString = "399488748.328448"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "88"
-         endingLineNumber = "88"
+         startingLineNumber = "78"
+         endingLineNumber = "78"
          landmarkName = "-flipCard:"
          landmarkType = "5">
       </FileBreakpoint>
@@ -223,38 +210,12 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "Machismo/CardGameViewController.m"
-         timestampString = "397271141.180022"
+         timestampString = "399488748.328448"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "87"
-         endingLineNumber = "87"
+         startingLineNumber = "77"
+         endingLineNumber = "77"
          landmarkName = "-flipCard:"
-         landmarkType = "5">
-      </FileBreakpoint>
-      <FileBreakpoint
-         shouldBeEnabled = "No"
-         ignoreCount = "0"
-         continueAfterRunningActions = "No"
-         filePath = "Machismo/CardGameViewController.m"
-         timestampString = "397271141.180022"
-         startingColumnNumber = "9223372036854775807"
-         endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "73"
-         endingLineNumber = "73"
-         landmarkName = "-updateUI"
-         landmarkType = "5">
-      </FileBreakpoint>
-      <FileBreakpoint
-         shouldBeEnabled = "Yes"
-         ignoreCount = "0"
-         continueAfterRunningActions = "No"
-         filePath = "Machismo/CardGameViewController.m"
-         timestampString = "397271141.180022"
-         startingColumnNumber = "9223372036854775807"
-         endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "80"
-         endingLineNumber = "80"
-         landmarkName = "-updateUI"
          landmarkType = "5">
       </FileBreakpoint>
       <FileBreakpoint
@@ -366,11 +327,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "Machismo/Model/CardMatchingGame.m"
-         timestampString = "394770446.917131"
+         timestampString = "399393151.929289"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "112"
-         endingLineNumber = "112"
+         startingLineNumber = "113"
+         endingLineNumber = "113"
          landmarkName = "@implementation CardMatchingGame"
          landmarkType = "3">
       </FileBreakpoint>
@@ -379,11 +340,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "Machismo/Model/CardMatchingGame.m"
-         timestampString = "394770446.917131"
+         timestampString = "399393151.929289"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "92"
-         endingLineNumber = "92"
+         startingLineNumber = "93"
+         endingLineNumber = "93"
          landmarkName = "-flipCardAtIndex:"
          landmarkType = "5">
       </FileBreakpoint>
@@ -392,11 +353,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "Machismo/Model/CardMatchingGame.m"
-         timestampString = "394770446.917131"
+         timestampString = "399393151.929289"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "89"
-         endingLineNumber = "89"
+         startingLineNumber = "90"
+         endingLineNumber = "90"
          landmarkName = "-flipCardAtIndex:"
          landmarkType = "5">
       </FileBreakpoint>
@@ -418,11 +379,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "Machismo/Model/CardMatchingGame.m"
-         timestampString = "394770446.917131"
+         timestampString = "399393151.929289"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "88"
-         endingLineNumber = "88"
+         startingLineNumber = "89"
+         endingLineNumber = "89"
          landmarkName = "-flipCardAtIndex:"
          landmarkType = "5">
       </FileBreakpoint>
@@ -431,7 +392,7 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "Machismo/Model/CardMatchingGame.m"
-         timestampString = "394770507.597861"
+         timestampString = "399393151.929289"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
          startingLineNumber = "85"
@@ -457,16 +418,16 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "Machismo/CardGameViewController.m"
-         timestampString = "397271141.180022"
+         timestampString = "399488748.328448"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "94"
-         endingLineNumber = "94"
+         startingLineNumber = "85"
+         endingLineNumber = "85"
          landmarkName = "-flipCard:"
          landmarkType = "5">
       </FileBreakpoint>
       <FileBreakpoint
-         shouldBeEnabled = "Yes"
+         shouldBeEnabled = "No"
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "Machismo/Model/setCard.m"
@@ -479,54 +440,39 @@
          landmarkType = "3">
       </FileBreakpoint>
       <FileBreakpoint
-         shouldBeEnabled = "Yes"
+         shouldBeEnabled = "No"
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "Machismo/SetGameViewController.m"
-         timestampString = "397290756.870049"
+         timestampString = "399487733.422336"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "167"
-         endingLineNumber = "167"
-         landmarkName = "@implementation SetGameViewController"
-         landmarkType = "3">
-      </FileBreakpoint>
-      <FileBreakpoint
-         shouldBeEnabled = "Yes"
-         ignoreCount = "0"
-         continueAfterRunningActions = "No"
-         filePath = "Machismo/SetGameViewController.m"
-         timestampString = "397271257.882845"
-         startingColumnNumber = "9223372036854775807"
-         endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "20"
-         endingLineNumber = "20"
-         landmarkName = "@implementation SetGameViewController"
-         landmarkType = "3">
+         startingLineNumber = "24"
+         endingLineNumber = "24">
       </FileBreakpoint>
       <FileBreakpoint
          shouldBeEnabled = "No"
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "Machismo/SetGameViewController.m"
-         timestampString = "397278881.488094"
+         timestampString = "399487733.422336"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "51"
-         endingLineNumber = "51"
-         landmarkName = "@implementation SetGameViewController"
-         landmarkType = "3">
+         startingLineNumber = "59"
+         endingLineNumber = "59"
+         landmarkName = "-setSetCardView:"
+         landmarkType = "5">
       </FileBreakpoint>
       <FileBreakpoint
-         shouldBeEnabled = "Yes"
+         shouldBeEnabled = "No"
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "Machismo/SetGameViewController.m"
-         timestampString = "397271841.688493"
+         timestampString = "399487733.422336"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "14"
-         endingLineNumber = "14"
+         startingLineNumber = "16"
+         endingLineNumber = "16"
          landmarkName = "@interface SetGameViewController()"
          landmarkType = "2">
       </FileBreakpoint>
@@ -535,16 +481,16 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "Machismo/CardGameViewController.m"
-         timestampString = "397272072.347072"
+         timestampString = "399488748.328448"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "85"
-         endingLineNumber = "85"
-         landmarkName = "-updateUI"
+         startingLineNumber = "75"
+         endingLineNumber = "75"
+         landmarkName = "-updateUI:"
          landmarkType = "5">
       </FileBreakpoint>
       <FileBreakpoint
-         shouldBeEnabled = "Yes"
+         shouldBeEnabled = "No"
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "Machismo/main.m"
@@ -555,33 +501,20 @@
          endingLineNumber = "13">
       </FileBreakpoint>
       <FileBreakpoint
-         shouldBeEnabled = "Yes"
+         shouldBeEnabled = "No"
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "Machismo/SetGameViewController.m"
-         timestampString = "397278881.488094"
+         timestampString = "399487733.422336"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "55"
-         endingLineNumber = "55"
-         landmarkName = "@implementation SetGameViewController"
-         landmarkType = "3">
+         startingLineNumber = "73"
+         endingLineNumber = "73"
+         landmarkName = "-game"
+         landmarkType = "5">
       </FileBreakpoint>
       <FileBreakpoint
-         shouldBeEnabled = "Yes"
-         ignoreCount = "0"
-         continueAfterRunningActions = "No"
-         filePath = "Machismo/SetGameViewController.m"
-         timestampString = "397290753.817666"
-         startingColumnNumber = "9223372036854775807"
-         endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "113"
-         endingLineNumber = "113"
-         landmarkName = "@implementation SetGameViewController"
-         landmarkType = "3">
-      </FileBreakpoint>
-      <FileBreakpoint
-         shouldBeEnabled = "Yes"
+         shouldBeEnabled = "No"
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "Machismo/Model/SetCardDeck.m"
@@ -591,6 +524,84 @@
          startingLineNumber = "14"
          endingLineNumber = "14"
          landmarkName = "-init"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "Machismo/SetGameViewController.m"
+         timestampString = "399487733.422336"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "37"
+         endingLineNumber = "37"
+         landmarkName = "@implementation SetGameViewController"
+         landmarkType = "3">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "Machismo/Model/SetCardDeck.m"
+         timestampString = "397573923.524825"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "31"
+         endingLineNumber = "31"
+         landmarkName = "-init"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "Machismo/SetGameViewController.m"
+         timestampString = "399487733.422336"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "93"
+         endingLineNumber = "93"
+         landmarkName = "@implementation SetGameViewController"
+         landmarkType = "3">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "Machismo/SetGameViewController.m"
+         timestampString = "399487733.422336"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "109"
+         endingLineNumber = "109"
+         landmarkName = "-updateAttributeString:withAttributeOfCard:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "Machismo/cardView.m"
+         timestampString = "399489850.626085"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "165"
+         endingLineNumber = "165"
+         landmarkName = "-drawRect:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "Machismo/cardView.m"
+         timestampString = "399489455.859755"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "115"
+         endingLineNumber = "115"
+         landmarkName = "-drawRect:"
          landmarkType = "5">
       </FileBreakpoint>
    </FileBreakpoints>

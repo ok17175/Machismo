@@ -82,6 +82,7 @@
             }
             self.score -= 1;
         }
+    
         card.FaceUp = !card.isFaceUp;
         
         //check if no more match

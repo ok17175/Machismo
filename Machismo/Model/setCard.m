@@ -59,7 +59,7 @@
 
 +(NSArray *) validshadings
 {
-    return @[@"opne",@"solid",@"striped"];
+    return @[@"open",@"solid",@"striped"];
 }
 
 +(NSArray *) validsymbols
@@ -71,6 +71,7 @@
 {
     return 3;
 }
+
 -(int)match:(NSArray *)otherCards
 {
     int score = 0;
@@ -85,6 +86,7 @@
         [shadings addObject:self.shading];
         [numbers addObject:@(self.number)];
         for (id otherCard in otherCards) {
+            if ([otherCard isKindOfClass:[setCard class]]){
             setCard *otherSetCard = (setCard *) otherCards;
             if (![colors containsObject:otherSetCard.color])
               [colors addObject:otherSetCard.color];
@@ -102,7 +104,7 @@
             && ([numbers count] == 1  || [numbers count] == 3)) {
             score = 5;
         }
-    
+        }
     }
     return score;
 }
